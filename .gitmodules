@@ -1,0 +1,3 @@
+[submodule "dismech-newton"]
+	path = dismech-newton
+	url = git@github.com:ryanchaiyakul/dismech-newton.git
